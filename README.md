@@ -1,2 +1,2 @@
 # acervo_tecnico
-Livros de nossa autoria. 
+Material Didático de nossa autoria. 
