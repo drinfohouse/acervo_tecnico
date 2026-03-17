@@ -15,8 +15,8 @@ Material de nossa autoria contendo livros, ebooks, cursos, aplicativos e tutoria
 | Título | Descrição | Link |
 | :--- | :--- | :--- |
 | **Youtube** | Cursos, tutoriais, serviços e mais. É nossa rede principal. | [🔗](https://www.youtube.com/@drinfohouse) |
-| **GitHub** | Acervo técnico: livros, aplicativos e correlatos. | [🔗](https://github.com/drinfohouse/acervo_tecnico) |
-| **Instagram** | Registro de alguns serviços. | [🔗](https://www.instagram.com/drinfohouse/) |
+| **Acervo Técnico** | Livros, aplicativos, tutoriais, cursos. | [🔗](https://github.com/drinfohouse/acervo_tecnico) |
+| **Instagram** | Atualizações esporádicas. | [🔗](https://www.instagram.com/drinfohouse/) |
 | **Whats** | Atendemos Curitiba (PR) e região metropolitana. | [🔗](https://wa.me/554196596617) |
 
 <br>
