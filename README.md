@@ -2,11 +2,11 @@
 Material de nossa autoria contendo livros, ebooks, cursos, aplicativos e tutoriais. Clique em "info" para mais informações. <br> <br>
 
 
-## 📚 Publicações (Livros, Apps, Cursos)
+## 📚 Publicações (Livros, Apps)
 | Título | Descrição Técnica | Link |
 | :--- | :--- | :--- |
-| **Montagem de Computadores** | Montagem, diagnóstico e formatação de hardware. [(info)](https://github.com/drinfohouse/acervo_tecnico/tree/main/Livro_Montagem) | [ 📥](https://github.com/drinfohouse/acervo_tecnico/releases/download/Livros/FRUTOS.D.Montagem.de.Computador.Guia.Pratico.pdf) |
-| **Escolha de Peças de Computador** | Guia prático com dicas de escolha, técnicas de comparação, estudo de compatibilidade e inferência de performance. [(info)](https://github.com/drinfohouse/acervo_tecnico/tree/main/Livro_Escolha_Pe%C3%A7as) | [ 📥](https://github.com/drinfohouse/acervo_tecnico/releases/download/Livros/FRUTOS.D.Escolha.de.Pecas.de.Computador.Guia.Pratico.pdf) |
+| **Montagem de Computadores** | Ebook com instruções de montagem, diagnóstico e formatação de computador. [(info)](https://github.com/drinfohouse/acervo_tecnico/tree/main/Livro_Montagem) | [ 📥](https://github.com/drinfohouse/acervo_tecnico/releases/download/Livros/FRUTOS.D.Montagem.de.Computador.Guia.Pratico.pdf) |
+| **Escolha de Peças de Computador** | Ebook com dicas de escolha, técnicas de comparação, estudo de compatibilidade e inferência de performance de peças de computador. [(info)](https://github.com/drinfohouse/acervo_tecnico/tree/main/Livro_Escolha_Pe%C3%A7as) | [ 📥](https://github.com/drinfohouse/acervo_tecnico/releases/download/Livros/FRUTOS.D.Escolha.de.Pecas.de.Computador.Guia.Pratico.pdf) |
 | **Clock_Control** | Aplicativo de nossa autoria para limitação de clock de processadores. [(info)](https://github.com/drinfohouse/acervo_tecnico/tree/main/Livro_Escolha_Pe%C3%A7as](https://github.com/drinfohouse/clock_control)) | [ 📥]([https://github.com/drinfohouse/acervo_tecnico/releases/download/Livros/FRUTOS.D.Escolha.de.Pecas.de.Computador.Guia.Pratico.pdf](https://github.com/drinfohouse/clock_control/releases/download/1.0/clock_control.bat)) |
 
 <br>
