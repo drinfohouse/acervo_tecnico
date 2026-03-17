@@ -11,7 +11,7 @@ Material de nossa autoria contendo livros, ebooks, cursos, aplicativos e tutoria
 <br>
 
 ## 🌐 Redes Sociais
-| Título | Descrição Técnica | Download |
+| Título | Descrição Técnica | Site |
 | :--- | :--- | :--- |
 | **Youtube** | Cursos, tutoriais, serviços e mais. É nossa rede principal. | [Link](https://www.youtube.com/@drinfohouse) |
 | **GitHub** | Acervo técnico: livros, aplicativos e correlatos. | [Link](https://github.com/drinfohouse/acervo_tecnico) |
