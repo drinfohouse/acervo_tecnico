@@ -1,5 +1,5 @@
 # DrInfoHouse: Acervo Técnico
-Material de nossa autoria contendo: livros, ebooks, cursos, aplicativos e tutoriais. Clique em "info" para mais informações. <br> <br>
+Material de nossa autoria: livros, ebooks, cursos, aplicativos e tutoriais. Clique em "info" para mais informações. <br> <br>
 
 
 ## 📚 Publicações (Livros, Apps)
