@@ -3,11 +3,11 @@ Material de nossa autoria contendo livros, ebooks, cursos, aplicativos e tutoria
 
 
 ## 📚 Publicações (Livros, Apps)
-| Título | Descrição Técnica | Link |
-| :--- | :--- | :--- |
-| **Montagem de Computadores** | Ebook com instruções de montagem, diagnóstico e formatação de computador. [(info)](https://github.com/drinfohouse/acervo_tecnico/tree/main/Livro_Montagem) | [ 📥](https://github.com/drinfohouse/acervo_tecnico/releases/download/Livros/FRUTOS.D.Montagem.de.Computador.Guia.Pratico.pdf) |
-| **Escolha de Peças de Computador** | Ebook com dicas de escolha, técnicas de comparação, estudo de compatibilidade e inferência de performance de peças de computador. [(info)](https://github.com/drinfohouse/acervo_tecnico/tree/main/Livro_Escolha_Pe%C3%A7as) | [ 📥](https://github.com/drinfohouse/acervo_tecnico/releases/download/Livros/FRUTOS.D.Escolha.de.Pecas.de.Computador.Guia.Pratico.pdf) |
-| **Clock_Control** | Aplicativo de nossa autoria para limitação de clock de processadores. [(info)](https://github.com/drinfohouse/clock_control) | [ 📥]([https://github.com/drinfohouse/acervo_tecnico/releases/download/Livros/FRUTOS.D.Escolha.de.Pecas.de.Computador.Guia.Pratico.pdf](https://github.com/drinfohouse/clock_control/releases/download/1.0/clock_control.bat)) |
+| Imagem | Título | Descrição Técnica | Download |
+| :---: | :--- | :--- | :---: |
+| <img src="https://github.com/drinfohouse/acervo_tecnico/blob/main/Livro_Montagem/(capa)%20FRUTOS%2C%20D.%20Montagem%20de%20Computador%2C%20Guia%20Pr%C3%A1tico.png" width="120"> | **Montagem de Computadores** | Ebook com instruções de montagem, diagnóstico e formatação de computador. <br> [(info)](https://github.com/drinfohouse/acervo_tecnico/tree/main/Livro_Montagem) | [📥](https://github.com/drinfohouse/acervo_tecnico/releases/download/Livros/FRUTOS.D.Montagem.de.Computador.Guia.Pratico.pdf) |
+| <img src="https://github.com/drinfohouse/acervo_tecnico/blob/main/Livro_Escolha_Pe%C3%A7as/capa.png" width="120"> | **Escolha de Peças** | Ebook com dicas de escolha, técnicas de comparação, estudo de compatibilidade e inferência de performance de peças de computador. <br> [(info)](https://github.com/drinfohouse/acervo_tecnico/tree/main/Livro_Escolha_Pe%C3%A7as) | [📥](https://github.com/drinfohouse/acervo_tecnico/releases/download/Livros/FRUTOS.D.Escolha.de.Pecas.de.Computador.Guia.Pratico.pdf) |
+| <img src="https://github.com/drinfohouse/clock_control/blob/main/clock_control_print_screen.png" width="120"> | **Clock_Control** | Aplicativo de nossa autoria para limitação de clock de processadores. <br> [(info)](https://github.com/drinfohouse/clock_control) | [📥](https://github.com/drinfohouse/clock_control/releases/latest) |
 
 <br>
 
