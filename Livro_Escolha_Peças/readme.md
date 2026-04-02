@@ -1,23 +1,30 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/drinfohouse/acervo_tecnico/main/Livro_Montagem/(capa)%20FRUTOS%2C%20D.%20Montagem%20de%20Computador%2C%20Guia%20Pr%C3%A1tico.png" alt="Capa do Livro Escolha de Peças" width="300">
+  <img src="https://github.com/drinfohouse/acervo_tecnico/blob/main/Livro_Escolha_Pe%C3%A7as/capa.png" width="300">
 </p>
 
 # Escolha de Peças de Computador
-## Guia Prático para Montagens Equilibradas e Duráveis
+## Guia Prático para Escolha de Peças 
 
 Este livro é o resultado de duas décadas de experiência prática em manutenção e montagem de hardware. O objetivo não é apenas listar componentes, mas ensinar os critérios técnicos necessários para planejar um computador com estabilidade, compatibilidade e longevidade.
 
 ---
 
 ## 1. Proposta do Material
-&nbsp;&nbsp;&nbsp;&nbsp;Diferente de guias focados apenas em desempenho imediato ou estética, este livro aborda a construção física e elétrica dos componentes. O conteúdo foi desenvolvido para ser acessível a qualquer pessoa, utilizando uma linguagem simples para explicar conceitos complexos como barramentos, eficiência energética e engenharia de fluxo térmico.
+Este guia traz uma abordagem inovadora: em vez de apenas sugerir marcas ou modelos, ele ensina técnicas de análise e comparação para que você entenda as características essenciais por trás de cada peça. 
+
+O conteúdo foi planejado para que qualquer pessoa, mesmo sem conhecimento prévio, consiga interpretar especificações técnicas e tomar decisões seguras.
+
+Diferente de muitos conteúdos que utilizam uma linguagem de impacto para atrair atenção rápida, este livro foca na análise técnica e no critério profissional. 
+
+O objetivo é fornecer uma base sólida que substitua o senso comum por conhecimento técnico, permitindo que você atualize ou avalie computadores com base técnica e realista.
 
 ---
+## 2. Estrutura do Livro
+O conteúdo segue uma lógica de dificuldade incremental, simulando as etapas reais de planejamento de um sistema. Partimos dos conceitos básicos e da definição do perfil de uso para a escolha do conjunto principal (processador e placa-mãe), avançando gradualmente para o equilíbrio entre memórias e tecnologias de armazenamento.
 
-## 2. A Jornada de Escolha (Estrutura do Livro)
-&nbsp;&nbsp;&nbsp;&nbsp;O conteúdo segue uma lógica de dificuldade incremental, simulando as etapas reais de planejamento de um sistema. Partimos dos conceitos básicos e do perfil de uso para a definição do conjunto principal (processador e placa-mãe), avançando gradualmente para o equilíbrio entre memórias, tecnologias de armazenamento e o mercado brasileiro.
+Na sequência, o guia detalha critérios de energia e refrigeração, ensinando a dimensionar fontes e entender a dinâmica do gabinete para garantir a durabilidade do hardware.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Na sequência, o guia detalha critérios críticos de energia e refrigeração, ensinando a dimensionar fontes e entender a física do gabinete para garantir a durabilidade do hardware. A jornada encerra com anexos práticos que aplicam todo o conhecimento em cenários reais, como máquinas para escritório, jogos e produtividade.
+A jornada encerra com anexos práticos que aplicam todo o conhecimento em cenários reais, como configurações para escritório, jogos e produtividade.
 
 ---
 
@@ -30,7 +37,7 @@ Este livro é o resultado de duas décadas de experiência prática em manutenç
 ---
 
 ## 4. Sobre o Autor
-&nbsp;&nbsp;&nbsp;&nbsp;**Daniel Frutos** é técnico especializado e fundador da **DrInfoHouse**. Com trajetória iniciada em 2004, dedica-se ao suporte técnico de alta complexidade e à produção de material didático para a comunidade de TI, sendo autor de três livros na área.
+**Daniel** é técnico especializado e fundador da **DrInfoHouse**. Com trajetória iniciada em 2004, dedica-se ao suporte técnico de alta complexidade e à produção de material didático para a comunidade de TI, sendo autor de livros e cursos além de assistência técnica na área.
 
 ---
 
