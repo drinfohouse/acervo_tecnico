@@ -1,4 +1,8 @@
 # Escolha de Peças de Computador
+<p align="center">
+  <img src="https://raw.githubusercontent.com/drinfohouse/acervo_tecnico/main/Livro_Montagem/(capa)%20FRUTOS%2C%20D.%20Montagem%20de%20Computador%2C%20Guia%20Pr%C3%A1tico.png" alt="Capa do Livro Escolha de Peças" width="300">
+</p>
+
 ### Guia Prático para Montagens Equilibradas e Duráveis
 
 Este livro é o resultado de duas décadas de experiência prática em manutenção e montagem de hardware. O objetivo não é apenas listar componentes, mas ensinar os critérios técnicos necessários para planejar um computador com estabilidade, compatibilidade e longevidade.
