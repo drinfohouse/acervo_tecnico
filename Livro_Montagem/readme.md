@@ -1,30 +1,32 @@
-# Escolha de Peças de Computador
 <p align="center">
   <img src="https://raw.githubusercontent.com/drinfohouse/acervo_tecnico/main/Livro_Montagem/(capa)%20FRUTOS%2C%20D.%20Montagem%20de%20Computador%2C%20Guia%20Pr%C3%A1tico.png" alt="Capa do Livro Escolha de Peças" width="300">
 </p>
 
-### Guia Prático para Montagens Equilibradas e Duráveis
+### Montagem de Computador
+#### Guia Prático para Montagem Profissional de Hardware
 
-Este livro é o resultado de duas décadas de experiência prática em manutenção e montagem de hardware. O objetivo não é apenas listar componentes, mas ensinar os critérios técnicos necessários para planejar um computador com estabilidade, compatibilidade e longevidade.
+Este livro é o resultado de mais de duas décadas de experiência prática em manutenção e integração de hardware em oficina profissional. O objetivo é transformar a vontade inicial do entusiasta em conhecimento técnico real, ensinando que a montagem profissional de um PC vai muito além do simples ato de "encaixar peças".
 
----
+#### 1. Proposta do Material
+Este guia oferece uma abordagem fundamentada no rigor técnico da bancada, capacitando o leitor a filtrar tutoriais superficiais e adotar protocolos de segurança que protegem o patrimônio tecnológico. 
 
-## 1. Proposta do Material
-&nbsp;&nbsp;&nbsp;&nbsp;Diferente de guias focados apenas em desempenho imediato ou estética, este livro aborda a construção física e elétrica dos componentes. O conteúdo foi desenvolvido para ser acessível a qualquer pessoa, utilizando uma linguagem simples para explicar conceitos complexos como barramentos, eficiência energética e engenharia de fluxo térmico.
+O conteúdo foi planejado para que tanto o leigo quanto o técnico experiente dominem desde o manuseio de componentes sensíveis até a otimização final do sistema.
 
----
+Diferente de guias focados apenas em entretenimento, este material foca na **visão sistêmica**: a habilidade de enxergar o computador como um ecossistema onde cada escolha de conexão reflete diretamente na vida útil e no desempenho final do equipamento.
 
-## 2. A Jornada de Escolha (Estrutura do Livro)
-&nbsp;&nbsp;&nbsp;&nbsp;O conteúdo segue uma lógica de dificuldade incremental, simulando as etapas reais de planejamento de um sistema. Partimos dos conceitos básicos e do perfil de uso para a definição do conjunto principal (processador e placa-mãe), avançando gradualmente para o equilíbrio entre memórias, tecnologias de armazenamento e o mercado brasileiro.
+#### 2. Estrutura do Livro
+O conteúdo segue uma lógica de dificuldade incremental, acompanhando o fluxo de trabalho cronológico de uma oficina especializada:
 
-&nbsp;&nbsp;&nbsp;&nbsp;Na sequência, o guia detalha critérios críticos de energia e refrigeração, ensinando a dimensionar fontes e entender a física do gabinete para garantir a durabilidade do hardware. A jornada encerra com anexos práticos que aplicam todo o conhecimento em cenários reais, como máquinas para escritório, jogos e produtividade.
+*   **Fundamentos e Planejamento:** Compreensão do perfil do montador profissional, análise de fontes de informação e mitigação de riscos financeiros.
+*   **Protocolos de Preparação:** Verificação preliminar de hardware, adequação do ambiente de operação e seleção do ferramental de precisão.
+*   **Integração de Hardware:** Procedimentos detalhados de unboxing e instalação física de placa-mãe, processador (CPU), memórias RAM e armazenamento NVMe.
+*   **Gestão Térmica e Gabinete:** Aplicação técnica de pasta térmica e montagem de sistemas de arrefecimento (Air e Water Coolers), além da fixação definitiva no chassi.
+*   **Finalização e Software:** Organização avançada de cabos (*cable management*), formatação de sistema UEFI, instalação de drivers e aplicativos essenciais de monitoramento.
 
----
+#### 3. Como Acessar o Material
+O livro é disponibilizado de forma aberta, sob licença Creative Commons (CC BY-NC-ND 4.0), permitindo o compartilhamento para fins educacionais.
 
-## 3. Como Acessar o Material
-&nbsp;&nbsp;&nbsp;&nbsp;O livro é disponibilizado de forma aberta, sob licença Creative Commons (CC BY-NC-ND 4.0), permitindo o compartilhamento para fins educacionais.
-
-* [📖 Ler Versão Atualizada (PDF)](https://github.com/drinfohouse/acervo_tecnico/releases/download/Livros/FRUTOS.D.Escolha.de.Pecas.de.Computador.Guia.Pratico.pdf)
+* [📖 Ler Versão Atualizada (PDF)](https://github.com/drinfohouse/acervo_tecnico/releases/download/Livros/FRUTOS.D.Montagem.de.Computador.Guia.Pratico.pdf)
 * [📂 Acervo Técnico Completo](https://github.com/drinfohouse/acervo_tecnico)
 
 ---
