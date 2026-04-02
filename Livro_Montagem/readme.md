@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/drinfohouse/acervo_tecnico/main/Livro_Montagem/(capa)%20FRUTOS%2C%20D.%20Montagem%20de%20Computador%2C%20Guia%20Pr%C3%A1tico.png" alt="Capa do Livro Escolha de Peças" width="300">
+  <img src="https://raw.githubusercontent.com/drinfohouse/acervo_tecnico/main/Livro_Montagem/(capa)%20FRUTOS%2C%20D.%20Montagem%20de%20Computador%2C%20Guia%20Pr%C3%A1tico.png" alt="Capa do Livro Montagem" width="300">
 </p>
 
 ### Montagem de Computador
