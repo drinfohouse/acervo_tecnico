@@ -29,14 +29,11 @@ O livro é disponibilizado de forma aberta, sob licença Creative Commons (CC BY
 * [📖 Ler Versão Atualizada (PDF)](https://github.com/drinfohouse/acervo_tecnico/releases/download/Livros/FRUTOS.D.Montagem.de.Computador.Guia.Pratico.pdf)
 * [📂 Acervo Técnico Completo](https://github.com/drinfohouse/acervo_tecnico)
 
----
 
-## 4. Sobre o Autor
+#### Sobre o Autor
 &nbsp;&nbsp;&nbsp;&nbsp;**Daniel Frutos** é técnico especializado e fundador da **DrInfoHouse**. Com trajetória iniciada em 2004, dedica-se ao suporte técnico de alta complexidade e à produção de material didático para a comunidade de TI, sendo autor de três livros na área.
 
----
-
-## Licença e Contribuição
+#### Licença e Contribuição
 &nbsp;&nbsp;&nbsp;&nbsp;Este projeto faz parte de uma iniciativa de disseminação de conhecimento livre. Caso encontre pontos de melhoria ou queira sugerir atualizações sobre novas tecnologias, sinta-se à vontade para abrir uma **Issue** neste repositório.
 
 ---
